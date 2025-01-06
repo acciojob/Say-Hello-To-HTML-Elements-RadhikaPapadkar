@@ -1,1 +1,6 @@
-
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 3rem; /* Large font size */
+    color: #2c3e50; /* Dark blue-gray color */
+    text-align: center; /* Center alignment */
+    margin-top: 20%; /* Push text vertically to the center */
